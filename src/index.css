@@ -130,6 +130,7 @@ main {
   justify-content: space-between;
   gap: 0.5rem;
 }
+
 /* Checkbox Style */
 .hamburger {
   cursor: pointer;
